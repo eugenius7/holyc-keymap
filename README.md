@@ -1,1 +1,1 @@
-# TempleOS-Key
+# Simple-Key
